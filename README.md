@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ScienceSully
-- 👀 I’m interested in STEM education, machine learning/AI, Python 3, 
-- 🌱 I’m currently learning Python 3 Basics
+- 👀 I’m interested in generative art, machine learning/AI, Python 3,  
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me @ bennsullins@gmail.com
 
