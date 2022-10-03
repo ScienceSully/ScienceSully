@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ScienceSully
-- 👀 I’m interested in generative art, machine learning/AI, Python,  
+- 👀 I’m interested in generative art, machine learning/AI, robotics, citizen-science  
 - 🌱 I’m currently learning Python 
 - 🌍 I’m looking to collaborate on any project.
 - 📫 How to reach me @ bennsullins@gmail.com
