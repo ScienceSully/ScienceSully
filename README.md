@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python 
 - 🌍 I’m looking to collaborate on any project.
 - 📫 How to reach me @ bennsullins@gmail.com
-- 🌐 <a href="https://sciencesully.github.io/cv/" target="_blank">Portfolio</a>
+- 🌐 <a href="https://sciencesully.com" target="_blank">Portfolio</a>
 
 <!---
 ScienceSully/ScienceSully is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
